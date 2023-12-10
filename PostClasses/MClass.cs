@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PostClasses
 {
-    internal class MClass
+    public class MClass
     {
         /// <summary>
         /// Главная функция, проверяет, является ли заданная eval'ом функция монотонной

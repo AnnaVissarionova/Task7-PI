@@ -9,11 +9,11 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace PostClasses
 {
-    internal class MainClass
+    public class MainClass
     {
         static void Main(string[] args)
         {
-            var arr = ParseEval("1100")
+            var arr = ParseEval("01001101");
 
             var blng = new bool[] { PClass.CheckP0(arr), PClass.CheckP1(arr), LClass.Check(arr), SClass.Check(arr), MClass.Check(arr) };
             PrintTable(blng);
@@ -79,7 +79,7 @@ namespace PostClasses
         /// </summary>
         /// <param name="eval"></param>
         /// <returns></returns>
-        static int[] ParseEval(string eval)
+        public static int[] ParseEval(string eval)
         {
             var res = new int[eval.Length];
             for (var i = 0; i < eval.Length; i++)
