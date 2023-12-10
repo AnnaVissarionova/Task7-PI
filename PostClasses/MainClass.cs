@@ -13,32 +13,36 @@ namespace PostClasses
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Enter the eval of function (e for exit):");
-            var inputStr = Console.ReadLine();
-            while (inputStr != "e")
-            {
-                
-                while (!(CheckEval(inputStr)))
-                {
-                    Console.WriteLine();
-                    Console.WriteLine("Try input again:");
-                    inputStr = Console.ReadLine();
+            var arr = ParseEval("1100");
 
-                }
-               
-                var arr = ParseEval(inputStr);
+            var blng = new bool[] { PClass.CheckP0(arr), PClass.CheckP1(arr), LClass.Check(arr), SClass.Check(arr), MClass.Check(arr) };
+            PrintTable(blng);
 
-                var blng = new bool[] { PClass.CheckP0(arr), PClass.CheckP1(arr), LClass.Check(arr), SClass.Check(arr), MClass.Check(arr) };
-                PrintTable(blng);
-                Console.WriteLine();
-                Console.WriteLine("Enter the eval of function (e for exit):");
-                inputStr = Console.ReadLine();
-            }
-            if (inputStr.Equals("e"))
-            {
-                Environment.Exit(0);
-            }
+            /* Console.WriteLine("Enter the eval of function (e for exit):");
+             var inputStr = Console.ReadLine();
+             while (inputStr != "e")
+             {
+
+                 while (!(CheckEval(inputStr)))
+                 {
+                     Console.WriteLine();
+                     Console.WriteLine("Try input again:");
+                     inputStr = Console.ReadLine();
+
+                 }
+
+                 var arr = ParseEval(inputStr);
+
+                 var blng = new bool[] { PClass.CheckP0(arr), PClass.CheckP1(arr), LClass.Check(arr), SClass.Check(arr), MClass.Check(arr) };
+                 PrintTable(blng);
+                 Console.WriteLine();
+                 Console.WriteLine("Enter the eval of function (e for exit):");
+                 inputStr = Console.ReadLine();
+             }
+             if (inputStr.Equals("e"))
+             {
+                 Environment.Exit(0);
+             }*/
         }
 
         

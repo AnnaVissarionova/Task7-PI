@@ -42,3 +42,17 @@ C:\Users\user\Desktop\code\Post-s-Classes\PostClasses\PostClasses\obj\Debug\net6
 C:\Users\user\Desktop\code\Post-s-Classes\PostClasses\PostClasses\obj\Debug\net6.0\PostClasses.pdb
 C:\Users\user\Desktop\code\Post-s-Classes\PostClasses\PostClasses\obj\Debug\net6.0\PostClasses.genruntimeconfig.cache
 C:\Users\user\Desktop\code\Post-s-Classes\PostClasses\PostClasses\obj\Debug\net6.0\ref\PostClasses.dll
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\bin\Debug\net6.0\PostClasses.exe
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\bin\Debug\net6.0\PostClasses.deps.json
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\bin\Debug\net6.0\PostClasses.runtimeconfig.json
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\bin\Debug\net6.0\PostClasses.dll
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\bin\Debug\net6.0\PostClasses.pdb
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.AssemblyInfo.cs
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.dll
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\refint\PostClasses.dll
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.pdb
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\PostClasses.genruntimeconfig.cache
+C:\Users\user\Desktop\Post-s-Classes\Task7-PI\PostClasses\obj\Debug\net6.0\ref\PostClasses.dll

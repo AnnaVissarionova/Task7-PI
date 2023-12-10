@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\Post-s-Classes\\PostClasses\\PostClasses\\PostClasses.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Post-s-Classes\\Task7-PI\\PostClasses\\PostClasses.csproj",
       "projectName": "PostClasses",
-      "projectPath": "C:\\Users\\user\\Desktop\\code\\Post-s-Classes\\PostClasses\\PostClasses\\PostClasses.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Post-s-Classes\\Task7-PI\\PostClasses\\PostClasses.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\code\\Post-s-Classes\\PostClasses\\PostClasses\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Post-s-Classes\\Task7-PI\\PostClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
