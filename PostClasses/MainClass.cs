@@ -13,7 +13,7 @@ namespace PostClasses
     {
         static void Main(string[] args)
         {
-            var arr = ParseEval("1100");
+            var arr = ParseEval("1100")
 
             var blng = new bool[] { PClass.CheckP0(arr), PClass.CheckP1(arr), LClass.Check(arr), SClass.Check(arr), MClass.Check(arr) };
             PrintTable(blng);
