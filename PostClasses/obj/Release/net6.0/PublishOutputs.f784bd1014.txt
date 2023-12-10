@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Post-s-Classes\PostClasses\PostClasses\bin\Release\net6.0\app.publish\PostClasses.exe
+C:\Users\user\Desktop\Post-s-Classes\PostClasses\PostClasses\bin\Release\net6.0\app.publish\PostClasses.dll
+C:\Users\user\Desktop\Post-s-Classes\PostClasses\PostClasses\bin\Release\net6.0\app.publish\PostClasses.deps.json
+C:\Users\user\Desktop\Post-s-Classes\PostClasses\PostClasses\bin\Release\net6.0\app.publish\PostClasses.runtimeconfig.json
+C:\Users\user\Desktop\Post-s-Classes\PostClasses\PostClasses\bin\Release\net6.0\app.publish\PostClasses.pdb
